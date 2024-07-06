@@ -49,8 +49,9 @@ This to-do list is not exhaustive and will evolve as I complete further analysis
 
 - [ ] Set tab order for main page
 - [ ] Create Alt Text for all visuals
+- [ ] Publish project
 - [ ] Create in depth individual pages explaining each invasive plant 
-	- [ ] English Ivy
+    - [ ] English Ivy
     - [ ] Kudzu
     - [ ] Porcelain Berry
 - [ ] Create detailed writeup of process 
